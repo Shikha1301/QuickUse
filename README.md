@@ -3,4 +3,4 @@
 2) Using react, I created a password generator where user can create their strong passwords. Users can select what to include in their passwords like small letters, capital letters, special charac‑
 ters, numbers.
 
-• Technology stack : HTML, CSS, JavaScript, ReactJS
+Technology stack : HTML, CSS, JavaScript, ReactJS
